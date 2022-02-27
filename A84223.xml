@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An examination examined: being a full and moderate answer to Maior Innes relation concerning the siege and taking of the town of Leicester by the Kings forces, the last of May 1645.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84223</idno>
+            <idno type="STC">Wing E3713</idno>
+            <idno type="STC">Thomason E303_13</idno>
+            <idno type="STC">ESTC P1212</idno>
+            <idno type="STC">ESTC R200294</idno>
+            <idno type="EEBO-CITATION">99861100</idno>
+            <idno type="PROQUEST">99861100</idno>
+            <idno type="VID">113228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113228)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An examination examined: being a full and moderate answer to Maior Innes relation concerning the siege and taking of the town of Leicester by the Kings forces, the last of May 1645.</title>
+                  <author>Temple, Peter, Sir, 1622-1692.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>For J.W.J. dwelling in the Old-Bayley:,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 16: Peter Temple, Vic. Thomas Hesilrige. Iohn Browne. Henry Smith. William Hewet. Francis Smalley. William Standley.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; publication date from Wing.</note>
+                  <note>A reply to: Innes, James.  An examination of a printed pamphlet, entituled, A narration of the siege of the town of Leicester (the last of May 1645.) (Wing I193).</note>
+                  <note>Annotation on Thomason copy: "7bre 26 1645" [i.e. September 26].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innes, James. --  An examination of a printed pamphlet, entituled, A narration of the siege of the town of Leicester (the last of May 1645.) --  Early works to 1800.</term>
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113228:1" rendition="simple:additions"/>
+            <head>An Examination Examined: Being a full and moderate Anſwer to Maior <hi>Innes</hi> Relation concerning the Siege and taking of the Town of <hi>Leiceſter</hi> by the Kings Forces, the laſt of May 1645.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here lately came forth an Examination of a Narration of the ſiege of the Towne of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> atteſted by <hi>James Innes,</hi> which we con<g ref="char:EOLhyphen"/>ceive to be Major <hi>Innes,</hi> he muſt needs take up by way of truſt what this Pamphet con<g ref="char:EOLhyphen"/>taines, which concernes not that Siege, for he was not in the Towne above one weeke; we wiſh he had named his Informers: but we hope Souldiers that are men of honour, and prize it ſo dearly, will not ſlander others from leſſe then honourable aſſurance. Firſt, he takes upon him to declare, That complaints were heretofore made by honourable perſons againſt the Committee of <hi>Leiceſter,</hi> and that they were not groundleſſe Accuſations, nor ſplenative Aſperſions We thinke he meanes by complaints, thoſe words ſpoken by the Earle of <hi>Stamford</hi> at the Houſe of Commons door, for there was not yet any complaint made to the Houſe of Com<g ref="char:EOLhyphen"/>mons, &amp; we are ſure that no one Accuſation raiſed againſt us hath any true grounds to make it good; and under his favour, if he, or others, divulge things from Honourable perſons againſt us that are not to be proved, they are ſplenative aſpertions; were we guilty but in the leaſt meaſure, we had long ſithence ſuffered, and we ſtill juſtifie our whole proceedings, though not to be free from er<g ref="char:EOLhyphen"/>rour, yet from injuſtce, partiality, or any juſt imputation; and we hold it forth to the world that divers of us have ſerved the Par<g ref="char:EOLhyphen"/>liament from before this warre began to this preſent, with inte<g ref="char:EOLhyphen"/>grity without change or gaine.</p>
+            <p>The Author goes on in theſe words; Thoſe Gentlemen of quality that at the beginning of this ſad warre had with the ha<g ref="char:EOLhyphen"/>zard of their lives and fortunes put the Towne of <hi>Leiceſter</hi> into a poſture of Defence, could not chuſe afterwards out of zeale to the
+<pb n="2" facs="tcp:113228:2"/>
+publike, but continue their care for the ſuppreſſing of it: though the full managing of that Affaire were ſince taken out of their hands, and committed to others of meaner ranke, and ſuch men who had not at firſt joyned in the hazard with them, nor appeared till danger ſeemed to be blown over. To this we anſwer, That the Towne of <hi>Leiceſter</hi> was not begunne to be fortified till about three quarters of a yeere after the warre beganne, neither was there much hazard to any mans perſon in that worke, no conſiderable enemy being then neere to interrupt them. We cannot but com<g ref="char:EOLhyphen"/>mend thoſe Gentlemen for their zeale to the publike, and their forwardneſſe in fortifying <hi>Leiceſter,</hi> and with their care had ſtill continued for maintenance of thoſe Fortifications, and not for the ſuppreſſing them, as is confeſt in the Pamphlet; with ſadneſſe be it ſpoken, the Parliament hath found many ſuch Changers, and we ſhould be glad to know their names, that their thanks might ſuit with their merits, and the Parliament take notice of them ac<g ref="char:EOLhyphen"/>cordingly. And for the diſtinction made betwixt the preſent Committee, and thoſe who acted then, we cannot diſtinguiſh ſo well as to afford them their ſayings, ſince none that did execute then were left out in this Ordinance but Maſter <hi>Danvers,</hi> Maſter <hi>Cotton,</hi> and Maſter <hi>Richard Bent,</hi> whoſe quality is not of ſuch note, neither in regard of perſons, eſtates, or families, to be magnified above thoſe Gentlemen who now act as Committees: And for thoſe who were left out, the Parliament ſaw cauſe for what they did; and though ſome of meaner ranke were put in, they are ſuch as never petitioned for that imployment, and to their beſt abilities have endeavoured to advance the publike, and have both appea<g ref="char:EOLhyphen"/>red &amp; acted when divers of greater ranke in the Countrey either durſt not, or would not appeare, being made Committees by the ſame Orders and Ordinances. And there are ſome of this Com<g ref="char:EOLhyphen"/>mittee, when the King came in perſon to demand the Magazine at <hi>Leiceſter,</hi> before he advanced his Standard at <hi>Nottingham,</hi> were active in defence thereof, and ſaw the order of the Knights of the Shire for the diſtribution thereof by the grand Jury to the Coun<g ref="char:EOLhyphen"/>try executed accordingly.</p>
+            <p>And whereas they ſay, They will inſiſt only upon ſuch things, as without too much injury to truth cannot be let paſſe, we ſhall give a full anſwer to this Pamphet without any injury to truth, and cleere our ſelves of any aſpertion caſt upon us.</p>
+            <p>It is well they have nothing to ſay againſt what the Committee
+<pb n="3" facs="tcp:113228:2"/>
+did upon Maſter <hi>Purefoy</hi> his intelligence from <hi>Briſtoll,</hi> ſome thought to have made it a very great charge.</p>
+            <p>And firſt, they ſeeme to confute what the Committee writ in a Narration touching the mending of the Works, with this Anſwer, That divers Houſes of advantage to the enemy were undemoliſhed within one hundred and twenty paces of the Works, and moſt of them within Piſtoll ſhot. Where is the Logick? In this anſwer the Works were not amended, for the houſes were ſtanding. But to reply to the ſtanding of the houſes, we found them ſo, and a Ma<g ref="char:EOLhyphen"/>jor Generall and thoſe Gentlemen of quality ſpoken of, had as much power to pluck them downe as the now Committee, yet we reſolved in caſe of abſolute neceſſity to fire them, which was done accordingly. And whereas Major <hi>Innes</hi> doth apply the burning the houſes at St. Sundayes bridge to his men, we ſay, That there was onely two of his men, and all the reſt were Colonell <hi>Greys,</hi> and ſome Towneſmen.</p>
+            <p>And as to the next charge, That the Committee was unprovided of Mattocks, Spades, and Shovels to make up the breaches. Our anſwer is, We marvell what became of all thoſe Pioners inſtru<g ref="char:EOLhyphen"/>ments that were provided for the making of the Works at the firſt, and wherefore they were not delivered to the Committee for the ſervice of the State; yet there was no want of ſuch implements, wit<g ref="char:EOLhyphen"/>neſſe the breſtwork againſt the battery that was raiſed and finiſht within the Newarke wall in a very ſhort time, where many hun<g ref="char:EOLhyphen"/>dreds workt together to the amazement of the enemy.</p>
+            <p>And whereas it was objected, That the Committee would not ſuffer that place in the Newarke to be fortified where the breach was made, becauſe it was upon M. <hi>Wadlands</hi> ground, who is Clerke to the Committee. We anſwer, That had wee beene permitted to fortifie the Newarke, this tax had been juſt, but wherefore was it not done by thoſe Gentlemen of quality before ſpoken of.</p>
+            <p>The next objection is, That the Lord <hi>Grey</hi> could never prevaile with the Committee for the pulling down thoſe houſes, and ſhort<g ref="char:EOLhyphen"/>ning the Line: wee anſwer, the Lord <hi>Grey</hi> was Major Generall, and one of the Committee, and might have done it by his owne power; nor was it ever propounded unto us, debated amongſt us, or oppo<g ref="char:EOLhyphen"/>ſed by us.</p>
+            <p>And where it is objected, that in our Narration we write, that the Kings comming to <hi>Aſhby</hi> was ſo ſudden, that we had no time to call off our men from <hi>Cole-Overton,</hi> and bring off our Cannon: To which
+<pb n="3" facs="tcp:113228:3"/>
+the Author tells us, that Sir <hi>John Gell,</hi> by Letters advertiſed us three dayes before the Kings comming, that in all probabilitie his de<g ref="char:EOLhyphen"/>ſigne was for <hi>Leiceſter:</hi> to that we anſwer, that what Sir <hi>John Gell</hi> writ, was but probable, and uncertaine; and <hi>Cole-Overton</hi> was a Garriſon within Cannon-ſhot of <hi>Aſhby,</hi> and had exceedingly weak<g ref="char:EOLhyphen"/>ned them both in reputation and ſtrength, and was the preſerver of all the Northerne Trade to <hi>London,</hi> and of as great conſequence as any ſmall Garriſon in <hi>England,</hi> which made us unwilling to quit that place; but upon undoubted intelligence of the Kings reſoluti<g ref="char:EOLhyphen"/>ons for <hi>Leiceſter,</hi> had we quit that Garriſon, and the King gone Northward, of which we had probable intelligence, thoſe carefull Gentlemen of qualitie then had had one juſt complaint, at which we ſhould have bluſht.</p>
+            <p>The next, is an anſwer to the reply made by Sir <hi>Robert Pye</hi> and Major <hi>Innes,</hi> after the Towne was ſummoned, both of them then queſtioning, whether the ſtrength of the Towne was ſufficient to defend it againſt the Kings Armie? which Major <hi>Innes</hi> anſwers, ſaying, that upon view at the Poſts they found but foure hundred and fiftie ſouldiers: Our reply is, That if he meanes Liſted Soul<g ref="char:EOLhyphen"/>diers under the Committee, beſides Towneſ-men, it approaches neere unto truth: There was of thoſe, about five hundred; Colonel <hi>Grey,</hi> in his march to the Works, had in his companie two hundred and thirtie, being accounted by Sir <hi>Robert Pye;</hi> Captaine <hi>Farmer</hi> had one hundred and twentie, Captaine <hi>Hurſt</hi> had one hundred twentie and nine, Lieutenant Colonel <hi>Battersby</hi> about fiftie; there was alſo about nine hundred Towneſ-men, and 150 of the Countreymen, and this computation riſeth neere to ſixteene hundred.</p>
+            <p>In the next place it is ſaid, That Sir <hi>Robert Pye</hi> deſired the Com<g ref="char:EOLhyphen"/>mittee, that Teames might be in a readineſſe, for removing the Can<g ref="char:EOLhyphen"/>non from place to place; but that not a Horſe or Teame was to be ſeene in readineſſe for that ſervice: whereunto we anſwer, That all the Teames in the Town were in readineſſe, and many of them im<g ref="char:EOLhyphen"/>ployed to bring Wooll-Packs, Baggs of Hops, and other neceſſaries, to ſtop the breaches, and to ſupply us with what was wanting; and this doth appeare to be ſo, becauſe there was but two Cannon de<g ref="char:EOLhyphen"/>ſired to be removed, the one from the Horſe-Faire Leyes to the breach in the <hi>Newarke,</hi> and the other from the high Croſſe to the North Mills, which were done accordingly.</p>
+            <p>The next Charge is, That the Committee did not keepe promiſe with Sir <hi>Robert Pye,</hi> to keepe three hundred men upon the maine
+<pb n="13" facs="tcp:113228:3"/>
+guard: wee ſay, that we made no ſuch promiſe, neither was it ſuta<g ref="char:EOLhyphen"/>ble to the Towne ſtrength, having ſo large a worke to man; yet the enemie found a maine guard, which coſt many of them their lives; and we had many priſoners alſo, that while we were in ſight, vio<g ref="char:EOLhyphen"/>lently preſt for libertie, ſo that we were enforſt to draw off ſome Muſquetiers from the maine guard, to keepe them in order.</p>
+            <p>We conſent with Major <hi>Innes</hi> that it is a vaſt Line, but under his favour, we differ upon the defence of it, for fifteene hundred men cannot halfe man it againſt a great Army; which we foreſeeing, indeavoured the fortifying of the Newarke, the Workes being neare foure miles in circuit: And we deſire every man to take no<g ref="char:EOLhyphen"/>tice, that when it was in the Enemies hands, and that Sir <hi>Thomas Fairfax</hi> came againſt it, the Enemy had as many more Forces as ever we had in it, all our Armes and Ammunition, the Trayned Bands being called in to their aſſiſtance, &amp; the Country compelled to fortifie; &amp; notwithſtanding all this, thought it not ſafe for them to ſtand upon their defence, but yeelded without any aſſault at all.</p>
+            <p>It is alſo averred, That Sir <hi>Robert Pye</hi> and Major <hi>Innes</hi> declared they would contribute their beſt indeavours for the maintenance of the Towne, which they ſaid they fully performed. To this we an<g ref="char:EOLhyphen"/>ſwer; We cannot juſtifie them in this particular; but ſay, That if Major <hi>Innes</hi> did any ſuch ſervice at the breach in the Newarke, by his favour, we know not how he came there, for his Poſt was aſ<g ref="char:EOLhyphen"/>ſigned him at S<hi rend="sup">t</hi> 
+               <hi>Margarets</hi> Church-yard, and the Weſt Bridge; and to that ground he was brought by Colonell <hi>Grey,</hi> and Maſter <hi>Haſilrigge,</hi> two of the Committee, which ground he profeſt to maintaine, or looſe his life; But the Enemy entred at the North Mills, within that Line, and betwixt <hi>Belgrave</hi> Gate and <hi>Humberſton</hi> Gate, cloſe by that Line, and the Horſe at <hi>Belgrave</hi> Gate. And thus plainly, yet truly, we are inforced to deale with him, to vindicate our owne Souldiers from unjuſt charges: We know no Officer of ours that forſooke his Poſt, nor we ſuppoſe that any man of honour will goe about to prove it; And not to diſparage his Service, we had at the breach in the Newarke, Commanders and Souldiers, both Horſe and Foote, as valiant and tryed men, as are any where to be found, as both friends and Enemies can witneſſe, and had they not entred elſwhere, they muſt not have entred there: Though Major <hi>Innes</hi> had beene away, our men did their parts, and there tooke two of the Enemies Colours, and pluckt divers of their Pikes out of their hands, and beate the Enemy back foure ſeverall times. (This is truth:)</p>
+            <p>
+               <pb n="14" facs="tcp:113228:4"/>And we doe againe averre it to be true which was ſaid in the Narration, that we did diſperſe our ſelves to ſeverall parts in the Towne, to ſupply what was wanting in Ammunition or otherwiſe, in diſtributing Money and Proviſions to the Souldiers, and to in<g ref="char:EOLhyphen"/>courage them, ſome one amongſt us diſtributing ten pounds of his owne Money amongſt them, beſides what others did; and if any had want of meate or moneys, it might be their owne fault, abſent<g ref="char:EOLhyphen"/>ing themſelves from the Works: And that the Committee very ſeldome appeared at the Works, it is alſo falſe, and is but the ef<g ref="char:EOLhyphen"/>fect of that ſcandellous malice the Pamphlettor, without any juſt cauſe expreſſes, both towards us and our Souldiery through the whole Pamphlet, which he injuriouſly and ſenſeleſly proſecutes againſt Captaine <hi>Hacker,</hi> taxing him with making an eſcape through the breach, at which the Enemy entred after five repulſes, and that he ſhould be taken neere <hi>Humberſton;</hi> if this had been true as it was not, it had been an honour to him to breake out in the face of an Enemy, and not at a back doore, or to hide himſelfe under a Table; the truth indeed is, that when the Enemy had broken in on the contrary Line, and came upon the backs of them in the Newarke; then Captaine <hi>Hacker,</hi> with divers others, got over the River at the Pike head, and were all taken on that ſide the River towards <hi>Bramſtone,</hi> which is oppoſite to <hi>Humberſtone.</hi>
+            </p>
+            <p>And whereas the Author goes on to make Captaine <hi>Hackers</hi> name the burden to a ſcandalous ſtory, ſaying, this is the ſame Captaine <hi>Hacker</hi> that failed to joine with Colonell <hi>Roſſiter:</hi> It is true, his Forces were not joyned with Colonell <hi>Roſſiter,</hi> but himſelf was in perſon with him, when newes came of the neare approach of the Enemy, and was deſired by Colonell <hi>Roſſiter</hi> to goe and fetch his Troops, which accordingly he did, not ſo much as a light<g ref="char:EOLhyphen"/>ing from his Horſe, but drew out his Forces and marched towards Colonell <hi>Roſſiter,</hi> and was within halfe a mile of him, where news came to him, that Colonell <hi>Roſſiter</hi> was routed, nevertheleſſe he marched towards the Enemy, untill Captaine <hi>Collins</hi> of <hi>Burley</hi> (not Captaine <hi>Collinſon</hi>) met him, and told him, that Colonell <hi>Roſſiters</hi> Horſe were all routed, and that he had ſeene an end of all his brave Horſe and men, and had not a man left to ſtand in the face of an Enemy; and told him further, that the Enemy had twenty bodies of Horſe, and that their Forlorne Hope was as bigge as Co<g ref="char:EOLhyphen"/>lonell <hi>Roſſiters</hi> Body; whereupon Captaine <hi>Hacker,</hi> (the Garriſon of <hi>Kirby</hi> not being finiſhed, nor defenſible, without Draw-Bridge.
+<pb n="15" facs="tcp:113228:4"/>
+or ſo much as a Line drawne on <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſide the Houſe,) he ſet fire on part of the out houſes, brought away all his Ammunition and Armes, and left not ſo much Proviſion as would have kept his men two daies, and came to <hi>Leiceſter,</hi> whence (if Captaine <hi>Collins</hi> his re<g ref="char:EOLhyphen"/>port had been true of the Enemies number) he might have done more ſervice then in a naked Houſe; but offereth to prove, that the time the Enemy was in thoſe parts, he had Scouts and Guards out continually, though by the Pamphlettor it is alleadged to the con<g ref="char:EOLhyphen"/>trary: And now let this be taken into their printed Records of more ſincerity and truth, that this was that Cap. <hi>Hacker,</hi> for whoſe releaſe the three Committees of <hi>Leiceſter, Nottingham,</hi> &amp; <hi>Derby,</hi> peti<g ref="char:EOLhyphen"/>tioned the Parliament for, when he was Priſoner at <hi>Belvoyre</hi> Caſtle: This was that Cap. <hi>Hacker</hi> that was principall actor in taking <hi>Bag<g ref="char:EOLhyphen"/>worth</hi> Houſe from the Enemy; and firſt entred the Towne of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and tooke it, when the Enemy had poſſeſſed it: that in his returne from <hi>Nottingham,</hi> with a few of his owne Troope, en<g ref="char:EOLhyphen"/>tred <hi>Aſhby</hi> Parke, within command of their Muskets and Canons, brought many Cattell out of it; and the ſame that gave the de<g ref="char:EOLhyphen"/>feate at <hi>Bagworth</hi> Heath to the Enemy, where they wounded and flew many, and tooke three ſcore priſoners; and the ſame that gave the defeate at <hi>Milton,</hi> where they killed and wounded many, both Captaines and Souldiers, tooke forty five Priſoners; and the ſame that entred the Towne of <hi>Aſhby,</hi> brought away forty of the Enemies Horſe, and divers Priſoners; and the ſame that with eight of his Troope entred the grounds under <hi>Belvoyre,</hi> and tooke thirty ſixe of the Enemies Horſe; and the ſame that had the com<g ref="char:EOLhyphen"/>mand of <hi>Leiceſter, Nottingham</hi> and <hi>Derby</hi> Horſe, at the great defeate given the Enemy neere <hi>Belvoyre,</hi> where they loſt about nine hundred Horſe; and the ſame Captaine <hi>Hacker,</hi> that of all the prizes that ever he tooke, reſerved nothing for himſelfe, but gave all frankly to the State and his Souldiers; and the ſame, that having layne long Priſoner at <hi>Belvoyre,</hi> was offered his Pardon, and the Com<g ref="char:EOLhyphen"/>mand of a Regiment of Horſe to change his ſide, and refuſed it with ſcorne; and the ſame, that now at the Kings taking of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> was ſo much prized by the Enemy, as they offered him a choice Regiment of Horſe to ſerve the King, but he refuſed, chu<g ref="char:EOLhyphen"/>ſing rather to ſuffer impriſonment and beggery, then to take up Armes againſt the Parliament; And finally this is that <hi>Hacker,</hi> that ever hath carryed himſelf as a man tender of his Country, a friend to all honeſt and good men, and fights not for the ſpoile of the
+<pb n="16" facs="tcp:113228:5"/>
+Kingdome: And theſe and many <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore are his honeſt actions, and we know no cauſe of this invect<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſpleene againſt him, but that he is a valliant Souldier, and one of the Committee.</p>
+            <p>The next Charge is upon Col. <hi>Grey,</hi> That it will be proved, that he ſuffered Sir <hi>Bern. Aſhley,</hi> with his whole Brigade of Foot, to ſcale with three ladders, and entred the Works without diſcharging one Musket, and running from his Poſt, was wounded in the back, one of his Enemies ſaying, He would give him the marke of a coward. This charge is moſt unjuſt, we have it under the hands of ſufficient witneſſes, he behaved himſelf valiantly, and Major <hi>Trollop</hi> that took him in <hi>Leiceſter,</hi> acknowledges him to be a valiant and a ſtout man, he had no Poſt to keep, but maintained the Line with much dili<g ref="char:EOLhyphen"/>gence and courage, till the Enemy with Horſe and Foote brake in upon him, incompaſt <hi>Belgrave</hi> Gate, and there fighting on Horſe<g ref="char:EOLhyphen"/>back, was wounded on the face, and had two cuts on the fore-part of his head, one of them cut the ſcull, and alſo a wound in the back with a Pike, which was rather a marke of honour, then of diſgrace, and there being beaten off his Horſe, was led away; And were there no other Anſwer made to this Pamphlet, but to deſire the honeſt Reader to obſerve theſe two laſt paſſages, he would finde it ſtuffed with nothing but malice and falſhoods in the ex<g ref="char:EOLhyphen"/>treme, and things alledged impoſſible to prove.</p>
+            <p>And concerning Captain <hi>Hurſt,</hi> who is reported in the Narra<g ref="char:EOLhyphen"/>tion to be ſlaine, it was by miſ-information, but wounded he was.</p>
+            <p>And whereas it is declared in this abuſive Pamphlet, that it is moſt certaine, that the Committee were ſo poſſeſt with feare, that they told his Majeſty they would have delivered the Towne at firſt, upon the Summons, had not Sir <hi>Robert Pye</hi> and Major <hi>Innes</hi> diſwa<g ref="char:EOLhyphen"/>ded them from it: Hereunto we anſwer, That the Committee ne<g ref="char:EOLhyphen"/>ver ſpake with the King; that both Sir <hi>Robert Pye</hi> and Major <hi>Innes</hi> know, that if any of the Committee told the King ſo, they told him a notorious untruth, for they themſelves, with many others, both Captaines, Officers and other Gentlemen, were witneſſes, that no one of the Committee ſpake one ſyllable of the rendring of the Towne, but all aſſented to what was ſaid by him that read the Summons; the ſum whereof was, That he deſired to die in no bet<g ref="char:EOLhyphen"/>ter a Cauſe, and every man ſtood to his impriſonment, neither did we expreſſe ſo much feare, as either to crave or accept any pardon, which if any particular man have done, we deſire to know him, and ſhall indeavour to put him out from amongſt us.</p>
+            <pb facs="tcp:113228:5"/>
+            <p>After which anſwer, Sir <hi>Robert Pye</hi> and Major <hi>Jnnes</hi> queſtio<g ref="char:EOLhyphen"/>ned, whether the ſtrength in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Towne was ſufficient for the de<g ref="char:EOLhyphen"/>fence of it? and how farre they wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld have proceeded by arguments to have perſwaded us to the rendring of it (had they found us in<g ref="char:EOLhyphen"/>clinable to have hearkned to them) we know not: but the concur<g ref="char:EOLhyphen"/>rance betwixt us and our Officers was ſuch, in our joynt reſoluti<g ref="char:EOLhyphen"/>ons for the defending of the Towne, that they could have but ſmall hopes to prevaile thereby; although upon examination of ſome things lately come to our eares, we are not altogether without grounds of ſuch a ſuſpition.</p>
+            <p>And whereas it is alledged, that Sir <hi>Henry Skipwith,</hi> and Sir <hi>John Pate,</hi> two notorious Delinquents, and powerfull with his Majeſty, declared at <hi>Leiceſter,</hi> in the preſence of manie honeſt men there, That the greateſt motive that drew the King to <hi>Leiceſter,</hi> was the certaine intelligence that he had of the weakeneſſe of the Commit<g ref="char:EOLhyphen"/>tee, and their want of experience in militarie affaires.</p>
+            <p>We ſay, that it is was ſtrange, that Sir <hi>Henry Skipwith,</hi> and Sir <hi>John Pate,</hi> ſhould make ſuch declaration to manie honeſt men in <hi>Leiceſter,</hi> there being ſo few out of priſon there, at that time: and we marvell the more, that ſuch as come in to the Kings Garriſons voluntarily, ſhould by any well-wiſher to the Parliament be ac<g ref="char:EOLhyphen"/>counted honeſt; and being of the Kings partie, they cannot be com<g ref="char:EOLhyphen"/>petent evidence to accuſe us: and the planting of <hi>Cole-Overton</hi> Gar<g ref="char:EOLhyphen"/>riſon, and managing of it, is ſo well knowne to the Countrie, that they will teſtifie that the enemie was beaten as oft as our forces could meet with them: and if their wiſedomes and experience were ſo eminent, we cannot but wonder, that they ſhould not out us in all that time, being ſuch a thorne in their ſides, and ſo neare, as that the bullets from our Cannon knockt at their doores in <hi>Aſhby</hi> Towne; and we may with modeſtie enough affirme, that if the King had not come, or ſome conſiderable armie to their aſſiſtance, they would not have dared to have met us in the field this yeare. And touching the fortifying of the <hi>Newarke,</hi> they ſay in theſe words, we will leave it to the judgement of all the world, how great a diſcouragement that had beene to Towne and Countrie, and of what ſmall advancement to the publque, ſince it was impoſſible that the <hi>Newarke</hi> could receive the perſons, much leſſe the Goods and Eſtates of the wel-affected: For anſwer whereunto, we ſay, that Colonel <hi>Bard</hi> told ſome of us, that if that had beene done, the King
+<pb n="10" facs="tcp:113228:6"/>
+had never come to <hi>Leiceſter,</hi> and we ſuppoſe him as competent and impartiall a Judge as Major <hi>In<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>;</hi> and what inconvenience had there beene in that?</p>
+            <p>Next, we ſay, that the Kings experienced old Souldiers thought it of ſo great conſequence, as that they ſet upon it, and had done a good part of it before Sir <hi>Thomas Fairfax</hi> tooke the Towne; and they being enemies to both, can be partiall to neither.</p>
+            <p>And laſt of all, Sir <hi>Thomas Fairfax</hi> his judgement in martiall af<g ref="char:EOLhyphen"/>faires, we ſuppoſe equall to thoſe oppoſers, and he hath commanded the finiſhing of it as wee had begun it, this we hope to effect in a ſhort time: and whereas they object, want of roome for the wel-affected, and their goods, and ſo they had beene ſubject to as much miſerie and plunder as before; to which we anſwer alſo, that it is the condition of manie, that having once engaged in an argument, they will ſeeke all corners, and ſift everie thing to the bran, to make it good; but the <hi>Newarke</hi> is of receipt enough to receive into it all the perſons and eſtates of the wel-affected, and yet leave ſufficient quartering for two thouſand ſouldiers for the defence of the place, there being in it a great circuit of waſt ground; the Caſtle-Hal, where the generall Aſſizes are kept; a verie fair, large, and ſpacious Church; together with a vaſt Cellar by the Caſtle; and an Hoſpitall, wherein are one hundred and nine poore men, together with their Keepers, everie one having a ſeverall Roome to themſelves, beſides their Houſes for ſtore, Waſh-houſes, &amp;c. together with manie faire Buildings, Houſes, Barnes, Stables, Orchards, Gardens, &amp;c. with<g ref="char:EOLhyphen"/>in the <hi>Newarke</hi> and the Caſtle-yard.</p>
+            <p>And for Colonell <hi>Boothes</hi> Letter, which bares date from <hi>Leice<g ref="char:EOLhyphen"/>ſter,</hi> (yet peradventure might be contrived elſewhere) we paſt it o<g ref="char:EOLhyphen"/>ver before; but ſince it comes to us re-printed, we ſhall preſume to examine ſome particulars, omitting the fyled phraſe, and fall upon the ſubſtance: Firſt, he ſayes, that by all mens account, that there were not above two hundred ſouldiers in the Towne; that is con<g ref="char:EOLhyphen"/>futed by the confeſſion of the Author, who confeſſes foure hundred and fiftie, and a more particular account of five hundred, beſides Towneſ-men, and the Horſe Troups: Secondly, that the ſouldiers were as peremptorie againſt Diſcipline as the Governours more ig<g ref="char:EOLhyphen"/>norant of it; to which if we ſhould have anſwered, that this young Gentleman ſpake more then he knew, it might have ſtood well e<g ref="char:EOLhyphen"/>nough; but we ſay, and are confident in it, that there are amongſt us that have ſeene more in matters of Warre, and beene in more
+<pb n="11" facs="tcp:113228:6"/>
+Garriſon Townes before he was borne, then ever he ſaw or came in ſince: And whereas he ſpeakes with ſo much confidence, that he would hazard life and fortune, that he would take the Towne at a<g ref="char:EOLhyphen"/>ny time, day or night, with five hundred men; we ſay, it is no dif<g ref="char:EOLhyphen"/>ficult thing, for ſo young a Gentleman to loſe both life and fortune: but we hope the enemies loſſe will teach this young Gentleman to beware of raſh undertakings, eſpecially in Print; it being confeſt by Colonel <hi>Leſley,</hi> that they loſt few leſſe then one thouſand men, and of them two Colonels, foure Majors, three other eminent per<g ref="char:EOLhyphen"/>ſons, whoſe names they were not willing to reveale, all buried in <hi>Martins,</hi> and ten buried in <hi>Margarets</hi> Church, manie more in o<g ref="char:EOLhyphen"/>ther Churches, theſe being all Commanders of note; beſides manie of the ſame ranke being wounded, dyed ſince, and were buried at <hi>Leiceſter:</hi> And whereas hee further addes, That the grand Maſters (as hee in ſcorne tearmes us) moſt ſenſible of danger, have all of them gotten houſes in the <hi>Newarke;</hi> this alſo is as true, as that Captaine <hi>Hurſt</hi> was kill'd: for of ſixteene of the Committee, there was eleven had houſes or Lodgings in the Towne, and not one of them removed, and ſome of us dwelt in Houſes in the <hi>Newarke,</hi> before the Warre began. And whereas he ſaith, that he perceived the Towneſ-men much diſcontented with the fortifying of the <hi>Newarke,</hi> conceiving themſelves deſtined by the Committee to the enemies mercie; To this we anſwer, that certainly this young Gentleman alighted at a malignant Inne, and unleſſe the malig<g ref="char:EOLhyphen"/>nants of the Towne attended him there, and deſired him to preferre this Complaint, wee neither know nor imagine how this came a<g ref="char:EOLhyphen"/>bout, for he ſpake not with the Committee, nor a Common Hall; and the Towneſ-men, who were of the Committee, ſubſcribed the Order for the fortifying the <hi>Newarke,</hi> though their houſes ſtood in the Towne. And whereas the Author <hi>(Wee)</hi> is ſo well aſſured of Colonel <hi>Booths</hi> good intentions in that diſſwading Letter, we con<g ref="char:EOLhyphen"/>ceive young men ſeldome know their owne intentions, neither doe we his; this we are certaine, that this Letter hath ruined us, both Towne and Countrey: and we cannot but ſtand amazed, to ſee a ſtranger write with that confidence, of things he underſtood not, and of us he knew not; and we have againe reprinted the Letter, hoping that by time and review this young Gentleman may come to give the Towne and Countrey ſome ſatisfaction. And concer<g ref="char:EOLhyphen"/>ning the taxing of the Countrey, this anſwer may ſerve. That the weekely ſumme was impoſed by the Committee an hundred pound
+<pb n="12" facs="tcp:113228:7"/>
+leſſe then we were enabled by the Ordinance of Parliament, and that gave power to rayſe but ſix hundred pounds weekely: the Tax both upon the Townes and perſons, was made by the moſt able and honeſt countrey-men we could pick out in the Countrey, and was not taxed by the Committee; and we dare affirme, that never any juſt complaint of inequalitie of Taxes was made to us, but it recei<g ref="char:EOLhyphen"/>ved redreſſe. And whereas it is ſaid by the Author <hi>(Wee)</hi> that it is verily beleeved, that had the Moneys collected weekely bin conver<g ref="char:EOLhyphen"/>ted to no other uſe then for the ſervice and maintenance of their Garriſons, <hi>Leiceſter</hi> had beene better provided for a ſiege, then (as appeares) now was: Friendly Reader, let it fall into your conſide<g ref="char:EOLhyphen"/>ration, what wee may expect from this Bunch, if men included in this word <hi>(Wee)</hi> for it cannot be wee, Major <hi>Jnnes</hi> onely, but wee defamers of other mens actions, have made this <hi>Quaere</hi> upon you, the Committee of <hi>Leiceſter;</hi> and wee againe, the Committee there, doe thus anſwer: That in the Narration ſet forth, which this Pam<g ref="char:EOLhyphen"/>phlet examines, and paſſes a cenſure upon; it is deſired, that ſome<g ref="char:EOLhyphen"/>thing might be firſt proved, and then Printed: but notwithſtanding, wee, the behind-doore publiſhers of this ſcandalous Pamphlet, in caſe wee cannot find juſt matter proved, will yet upon our owne braines believe and publiſh alſo, that you are defrauders of the State, and deceivers, abuſers of that truſt put into you; and let theſe conceits ſpeed how they will, yet goe they ſhall. But to this wee reply no further; but upon more certaine evidence we ſuppoſe, if gueſſes faile us not, there are none of thoſe that thus ſtand behind the doore, or looke through the Lettuce, and cry <hi>(Wee)</hi> but they are or ſhould be Accomptants to the State for large ſummes of Mony: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>concluſion of this point, wee wiſh, that thoſe Gentlemen of <gap reason="illegible" resp="#UOM" extent="6+ letters">
+                  <desc>••••••…</desc>
+               </gap>tie, who made the firſt entrance into the Affaires of the <hi>Mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ia</hi> in this Countie, may as punctually reckon with the State as wee; and when they have cleared themſelves, they may the better charge us.</p>
+            <p>And whereas the Pamphlet ſaith wee affirme, that wee receive not any pay, and this Examiner ſaith, that they are credibly infor<g ref="char:EOLhyphen"/>med, that very few, or none of us, but are chargeable with Money rayſed in the Countrey for the publique ſervice, and how wee have diſpoſed of it, they muſt leave it to the examination of thoſe who are imployed for that purpoſe: wee anſwer, wee alſo ſhall leave that to the examination of the Sub-Committee for Accompts, they ha<g ref="char:EOLhyphen"/>ving
+<pb n="13" facs="tcp:113228:7"/>
+it in charge, and being men wee, neither deſire nor expect favour from. And whereas they ſay, that many of the Committee were Captaines, and have received great ſummes of Money, yet ſeldome or never went out with their Troupes, for the defence of the Countrey: wee anſwer, that this Charge is moſt unjuſt; the greateſt part of our Horſe were ingarriſon'd abroad neere the ene<g ref="char:EOLhyphen"/>mie, and were ſo active, that they kept the enemies Garriſons in ſuch awe, that they durſt not ſtirre out but like Theeves, in the night. As for caſhiering old ſouldiers, wee ſay, wee never caſhier'd any; neither know wee any old ſouldier formerly imployed at <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> above the degree of a Lieutenant in the <hi>Low-Countries,</hi> except Colonel <hi>Wardeloe,</hi> who was gone long before the laſt Ordinance for the <hi>Militia.</hi>
+            </p>
+            <p>And for Captain <hi>Temple,</hi> we know not that ever Captain <hi>Temple</hi> refuſed to goe forth, declin'd an enemie, or loſt oportunitie: and for his going to <hi>London,</hi> he was High Sheriffe of the Countie, and by reaſon of that Office, had buſineſſe there; and that at his going not ten dayes after, we heard not any thing of the enemies ap<g ref="char:EOLhyphen"/>proach; and for the reſt of his charge, we hold it frivolous, and not worth the anſwering: And however he might perſwade, upon re<g ref="char:EOLhyphen"/>port of the Kings advance towards <hi>Aſhby,</hi> to ſecure the Ordnance in <hi>Rockingham</hi>-Caſtle, <hi>Leiceſter</hi> being unfortified, it was no verie indiſcreet advice, yet he never concurred in advice upon the ap<g ref="char:EOLhyphen"/>proach of an enemie to ſtrip Colours off the ſtaffe, and to put them into a Coach, &amp; ſo to carry them away. And whereas they ſay, that of thoſe that now ſit in the Committee, not above two or three of them did appeare, and joyne in the ſervice with thoſe Gentlemen that hazarded their lives and fortunes for the publique in the begin<g ref="char:EOLhyphen"/>ning, and are now out of the Ordinance for the <hi>Militia,</hi> and that they did not appeare till <hi>Leiceſter</hi> was neere fortified, both Towne &amp; Countrie, in a good poſture of defence: we ſay, there was more of the now Committee appeared, then there was of thoſe Gentlemen of qualitie, mentioned to be the fortifyers of <hi>Leiceſter,</hi> But give us leave to aske one queſtion; Wherefore did not thoſe Gentlemen of quality appear at <hi>Oundle,</hi> to perſonate the affairs of the County there, when the wel-affected Gentlemen of the eight Counties did meet, to conſider what everie Countie ſhould contribute toward the ray<g ref="char:EOLhyphen"/>ſing an Armie for the mutuall defence one of another? Had they beene active then, to have made an aſſociation, and gathered a ſuta<g ref="char:EOLhyphen"/>ble
+<pb n="14" facs="tcp:113228:8"/>
+ſtrength to thoſe eight Counties, which were the beſt in the Kingdome of <hi>England</hi> for able horſe and men, and meanes to maintaine them: <hi>Leicesterſhire</hi> had ſeene no Garriſon upon its owne ſoyle, nor had <hi>Newarke</hi> upon <hi>Trent</hi> taken ſo deepe a root; no, theſe Counties had not knowne what Pillaging and Plundring had beene, no more then the Aſſociated Counties have done; nor was it hard to demonſtrate, that the North of <hi>England</hi> had never undergone thoſe heavie preſſures by the Earle of <hi>New Caſtles</hi> Ar<g ref="char:EOLhyphen"/>mie: but the Major Generall had no more ſtrength then poore <hi>Lei<g ref="char:EOLhyphen"/>ceſterſhire</hi> maintained: had thoſe Gentlemen of qualitie done this, it had not beene to put <hi>Leiceſter</hi> onely into a poſture of defence, but the whole Aſſociation, and beene a worke much more proper, and extreamly beneficiall to the whole Kingdome.</p>
+            <p>And whereas in our Narration wee declare, that if Sir <hi>Edward Hartop</hi> Baronet, Sir <hi>Thomas Hartop,</hi> Sir <hi>Roger Smith</hi> Knights, <hi>John Saint-John,</hi> and <hi>Thomas Brudnell</hi> Eſquires, were but commanded downe to ſit as Committees, they would give more ſatisfaction to the Countrie, and doe the Parliament better ſervice then thoſe that are of leſſe eſtates poſſible can doe: whereunto they anſwer, the Committee well know, that all or moſt of thoſe Gentlemen be<g ref="char:EOLhyphen"/>fore mentioned, by reaſon of their age and infirmities (without prejudice to their healths) cannot attend to doe ſervice; as other<g ref="char:EOLhyphen"/>wiſe they willingly would. Whereunto we reply, we know well, but know no inabilities of bodie in them, ſuch as may hinder them altogether from the ſervice, divers of us being as aged and infirme as ſome of them.</p>
+            <p>And whereas there are divers perſons in the Pamphlet named to be added to the Commttiee, which certainly were unknowne to Major <hi>Jnnes,</hi> (as if twenty &amp; eight, beſides Towneſ-men formerly approved of by the Parliament, were not enough, being the choyſeſt Gentrie in the Countrie, that were not in armes againſt the Parliament) amongſt which are named all thoſe who ap<g ref="char:EOLhyphen"/>peared upon the firſt Ordinance, and deſerted not the ſervice, and yet they ſpake of a Petition preferred by the Countrie for addition: wee ſay, that a Petition was preſented in the name of the beſt affected of the Countie, but not ſet on foot by them; and to make the greater ſhew, verie manie mens names were twice ſubſcribed, manie others Malignants, both Gentrie and Clergie, divers Delinquents, others of meane qualitie, not capable of the ſenſe of the Petition, others ſetting their hands to blank papers, and this bu<g ref="char:EOLhyphen"/>ſineſſe was formerly examined by a Committee of the Houſe of Commons, ap<g ref="char:EOLhyphen"/>poynted for that purpoſe.</p>
+            <p>The perſons the Pamphleter <hi>(Wee)</hi> names to be added to the Committee, if occaſion ſerve, and if we ſhall be thereunto called, we ſhall give in our rea<g ref="char:EOLhyphen"/>ſons
+<pb n="15" facs="tcp:113228:8"/>
+and exceptions againſt them, but we ſhall forbeare to Print them: But becauſe we deſire the full ſatisfaction of all perſons, both Towne and Coun<g ref="char:EOLhyphen"/>trie, that the Gentrie of beſt qualitie of <hi>Leiceſterſhire</hi> have not beene negle<g ref="char:EOLhyphen"/>cted, but put in to act as Committees for the Parliament; wee have printed all the names contained both in the firſt and laſt Ordinance.</p>
+            <list>
+               <head>The firſt Committee for the <hi>Militia,</hi> 16 <hi>Jan.</hi> 1642.</head>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Gray.</hi>
+               </item>
+               <item>0 Sir <hi>Edw. Hartop Sen.</hi> Baronet.</item>
+               <item>Sir <hi>Arthur Heſilrige,</hi> Baronet.</item>
+               <item>Sir <hi>Martin Liſter,</hi> Knight.</item>
+               <item>0 Sir <hi>Thomas Hartop,</hi> Knight.</item>
+               <item>0 Sir <hi>Edward Hartop,</hi> Knight.</item>
+               <item>0 <hi>John Saint-Iohn,</hi> Eſquire.</item>
+               <item>0 <hi>William Roberts,</hi> Eſquire.</item>
+               <item>
+                  <hi>Peter Temple,</hi> Eſquire.</item>
+               <item>0 <hi>William Jerviſe,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Heſilrige,</hi> Eſquire.</item>
+               <item>† <hi>Richard Bent,</hi> Eſquire.</item>
+               <item>† <hi>William Danvers,</hi> Eſquire.</item>
+               <item>
+                  <hi>John Goodman,</hi> Eſquire.</item>
+               <item>0 <hi>Symon Ridgley,</hi> Eſquire.</item>
+               <item>
+                  <hi>William Bembridge,</hi> Eſquire.</item>
+               <item>0 <hi>Thomas Brudnell,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Babington,</hi> Eſquire.</item>
+               <item>0 <hi>Thomas Merrie,</hi> Eſquire.</item>
+               <item>0 <hi>Thomas Beaumont,</hi> Eſquire.</item>
+               <item>
+                  <hi>Arthur Stavely,</hi> Eſquire.</item>
+               <item>† <hi>Thomas Cotton,</hi> Eſquire.</item>
+               <item>
+                  <hi>William Hewit,</hi> Eſquire.</item>
+               <item>
+                  <hi>Richard Ludlam,</hi> and</item>
+               <item>
+                  <hi>William Stanley.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Committee as now it is.</head>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Gray</hi> of <hi>Grooby.</hi>
+               </item>
+               <item>
+                  <hi>Theophilus Gray,</hi> Eſquire.</item>
+               <item>Sir <hi>Arthur Heſilrige,</hi> Baronet.</item>
+               <item>Sir <hi>Martin Liſter,</hi> Knight.</item>
+               <item>Sir <hi>Edward Hartop Jun.</hi> Knight.</item>
+               <item>Sir <hi>George Villers,</hi> Baronet.</item>
+               <item>Sir <hi>Edward Hartop,</hi> Baronet.</item>
+               <item>Sir <hi>Thomas Hartop,</hi> Knight.</item>
+               <item>Sir <hi>Roger Smith,</hi> Knight.</item>
+               <item>
+                  <hi>John Saint-John,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Babington Sen.</hi> Eſquire,</item>
+               <item>
+                  <hi>William Bembridge,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Brudnell,</hi> Eſquire.</item>
+               <item>
+                  <hi>John Whatton,</hi> Eſquire.</item>
+               <item>
+                  <hi>Archdale Palmer,</hi> Eſquire.</item>
+               <item>
+                  <hi>Peter Temple,</hi> Eſquire.</item>
+               <item>
+                  <hi>Arthur Stavely,</hi> Eſquire.</item>
+               <item>
+                  <hi>Henry Smith,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Heſilrige,</hi> Eſquire.</item>
+               <item>
+                  <hi>Francis Hacker,</hi> Eſquire.</item>
+               <item>
+                  <hi>John Stafford,</hi> Eſquire.</item>
+               <item>
+                  <hi>John Browne,</hi> Eſquire.</item>
+               <item>
+                  <hi>William Hewit,</hi> Eſquire.</item>
+               <item>
+                  <hi>John Goodman,</hi> Eſquire.</item>
+               <item>
+                  <hi>Francis Smalley,</hi> Gentleman.</item>
+               <item>
+                  <hi>John Swynfen,</hi> Gentleman.</item>
+               <item>
+                  <hi>Valentine Goodman,</hi> Gentleman.</item>
+               <item>
+                  <hi>John Pratt,</hi> Gentleman.</item>
+               <item>
+                  <hi>Richard Ludlam,</hi> Aldermen of <hi>Leiceſter.</hi>
+               </item>
+               <item>
+                  <hi>William Stanley,</hi> Aldermen of <hi>Leiceſter.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Cradock,</hi> Aldermen of <hi>Leiceſter.</hi>
+               </item>
+            </list>
+            <p>Thoſe who are markt with Cyphers in the firſt Ordinance, ap<g ref="char:EOLhyphen"/>peared not; thoſe who are croſt, went away and forſooke the ſer<g ref="char:EOLhyphen"/>vice: and gentle Reader, judge if this laſt be a Committee of Gen<g ref="char:EOLhyphen"/>tlemen of the meaneſt qualitie and eſtates in <hi>Leiceſterſhire:</hi> doth not this Pamphleter deſerve puniſhment for his ſlander? ſhall we be all blamed, if Gentlemen of the beſt qualitie will not act for the Parlia<g ref="char:EOLhyphen"/>ment?</p>
+            <pb n="16" facs="tcp:113228:9"/>
+            <p>And now to wynd up all, the Author drawes to his concluſion, ſaying, upon theſe conſiderations, how much thoſe Gentlemen of the Committee, who have had the power of the <hi>Militia</hi> in their hands theſe ten moneths laſt paſt, deſerve to be rewarded for their ſervice; let the world judge, and we alſo appeale to the honeſt im<g ref="char:EOLhyphen"/>partiall Reader in this behalfe, if there be in all this frivolous Pam<g ref="char:EOLhyphen"/>phlet, one error charged upon us, and not fully anſwered, as acting at the Committee, much leſſe a crime: he charges us with commit<g ref="char:EOLhyphen"/>ting hainous offences againſt the State, he hath not ſo much as ſug<g ref="char:EOLhyphen"/>geſted, much leſſe proved one; we have ſerved the Parliament faith<g ref="char:EOLhyphen"/>fully and honeſtly, and doe juſtifie our whole proceedings, and doe make our challenge even to malice it ſelfe, who is a good accuſer, to come forth and prove but one offence, though much below hainous: we are not ſuch fooles to expect reward, nor to have our ſervices confined within ten moneths; what wee have done from the begin<g ref="char:EOLhyphen"/>ning of this Parliament, was in obedience to God, &amp; in dutie to our native Countrie and this Kingdome: what wee expected, that wee have; that becauſe we could not ſerve other mens, turnes they would hate and reproach us; our innocent ſufferings are our incourage<g ref="char:EOLhyphen"/>ments, and for rewards we have enough, the Parliament proſpers: If ever this be replyed unto, it will not be by men of honour, for the Author concludes, they are aſhamed of ignoble actions, amongſt which we number ſlanders and ſpleenative aſpertions &amp; wee reſolve to trouble our ſelves no further till ſome one thing be proved a<g ref="char:EOLhyphen"/>gainſt us; and thus gentle Reader, we take a civill leave, and bid thee farewell.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Peter Temple, <hi>Vic.</hi>
+                     </item>
+                     <item>Thomas Heſilrige.</item>
+                     <item>Iohn Browne.</item>
+                     <item>Henry Smith.</item>
+                     <item>William Hewet.</item>
+                     <item>Francis Smalley.</item>
+                     <item>William Standley.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for J. W. J. dwelling in the Old-Bayley:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
